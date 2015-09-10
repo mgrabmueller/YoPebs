@@ -3,14 +3,25 @@
     "capabilities": [
         ""
     ],
-    "companyName": "martin@grabmueller.de",
+    "companyName": "Martin Grabm\u00fcller",
     "longName": "YoPebs",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/yopebs.png",
+                "menuIcon": true,
+                "name": "IMAGE_LOGO",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "YoPebs",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "0a7ecb06-5c3d-4028-a670-bbece7253db5",
     "versionLabel": "1.0",
     "watchapp": {
