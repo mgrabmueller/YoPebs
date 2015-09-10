@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "martin@grabmueller.de",
+    "longName": "YoPebs",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "YoPebs",
+    "uuid": "0a7ecb06-5c3d-4028-a670-bbece7253db5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
