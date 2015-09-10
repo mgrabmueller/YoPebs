@@ -16,15 +16,12 @@
             }
         ]
     },
-    "sdkVersion": "3",
+    "sdkVersion": "2",
     "shortName": "YoPebs",
-    "targetPlatforms": [
-        "aplite",
-        "basalt"
-    ],
     "uuid": "0a7ecb06-5c3d-4028-a670-bbece7253db5",
+    "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": false
+        "watchface": true
     }
 }
